@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tarnadas/shard-payout.git"
+    "url": "git+https://github.com/sasukeuchiha23/shard-payout.git"
   },
   "author": "Mario Reder",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Tarnadas/shard-payout/issues"
+    "url": "https://github.com/sasukeuchiha23/shard-payout/issues"
   },
-  "homepage": "https://github.com/Tarnadas/shard-payout#readme",
+  "homepage": "https://github.com/sasukeuchiha23/shard-payout#readme",
   "dependencies": {
     "discord.js": "^11.1.0",
     "nightmare": "^2.10.0",
